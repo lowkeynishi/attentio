@@ -74,18 +74,6 @@ It uses an Arduino Uno, a PIR sensor and an ultrasonic sensor to monitor user ac
 
 ## Getting started
 
-### Hardware setup
-
-1. Place the Arduino Uno and small breadboard inside the 3D‑printed enclosure.
-2. Connect the components:
-   - PIR sensor: signal pin to digital pin `D?`, VCC to `5V`, GND to `GND`.
-   - Ultrasonic sensor: `Trig` to digital pin `D?`, `Echo` to digital pin `D?`, VCC to `5V`, GND to `GND`.
-   - RGB LED module: data/control pins to appropriate digital pins, VCC to `5V`, GND to `GND`.
-   - Buzzer: connected to a digital pin and `GND` (optionally via a resistor).
-
-3. Double‑check all wiring before powering the Arduino.
-
-
 ## Setup and usage
 
 1. Connect all components to the Arduino Uno according to the pin configuration.
