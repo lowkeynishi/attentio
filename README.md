@@ -86,8 +86,7 @@ It uses an Arduino Uno, a PIR sensor and an ultrasonic sensor to monitor user ac
 ## Files
 
 - `attentio.ino` – main Arduino sketch
-- `models/` – Fusion 360 or STL files for the enclosure (optional)
-- `assets/` – photos of the prototype (optional)
+- `models/` – Fusion 360 or STL files for the enclosure
 
 ## Academic context
 
