@@ -3,6 +3,8 @@
 Attentio is a hardware companion project developed for the Interactive Systems module.  
 It uses an Arduino Uno, a PIR sensor and an ultrasonic sensor to monitor user activity, and provides feedback via a buzzer and an RGB LED inside a custom 3D‑printed enclosure.
 
+![Attentio prototype near monitor](assets/attentio_monitor.jpg)
+
 ## Project context
 
 - **Module:** Interactive Systems
